@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elc3r
-- 🌱 I’m currently learning c++, python
+- 🌱 I’m currently learning c++, python, web
 
 <!---
 Elc3r/Elc3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
